@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cronosy
-- 👀 I’m interested in python, ruby, rails, mongodb, Ansible, Linux, Open stack, azure.
+- 👀 I’m interested in python, ruby, rails, mongodb, Ansible, Linux, Open stack, azure, asws, terraform.
 - 🌱 I’m currently learning manageIQ, ruby rails terraform
 
 
