@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cronosy
-- 👀 I’m interested in python, ruby, rails, mongodb, Ansible, Linux, Open stack, azure, asws, terraform.
-- 🌱 I’m currently learning manageIQ, ruby rails terraform
+- 👀 I’m interested in python, ruby, rails, mongodb, Ansible, Linux, Open stack, azure, aws, terraform.
+- 🌱 I’m currently learning manageIQ, ruby rails terraform, k8s
 
 
 - 💞️ I’m looking to collaborate on ...
